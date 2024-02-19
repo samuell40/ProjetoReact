@@ -1,2 +1,2 @@
 # ProjetoReact
- Projetos Desenvolvido em React Native
+ Aplicação para Delivery Desenvolvido com React Native.
